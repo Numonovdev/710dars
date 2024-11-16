@@ -1,0 +1,16 @@
+.active {
+  font-weight: 900;
+}
+.asosiy {
+  height: 400px;
+  background: linear-gradient(180deg, #3333a3 5.09%, #121212 83.4%);
+}
+
+.details {
+  height: 400px;
+  background: linear-gradient(180deg, #def628 5.09%, #121212 83.28%);
+}
+.likes {
+  height: 400px;
+  background: linear-gradient(180deg, #604ec1 5.09%, #121212 97.28%);
+}
